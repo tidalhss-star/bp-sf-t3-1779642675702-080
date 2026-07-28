@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title><![CDATA[AI트렌드]]></title>
-  <link>https://sf-t3-1779642675702-080.vercel.app</link>
+  <link>https://sf-t3-1779642675702-080.maphoshirts.com</link>
   <description><![CDATA[AI트렌드 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
   <language>ko</language>
   <pubDate>Wed, 10 Jun 2026 15:12:46 GMT</pubDate>
@@ -11,14 +11,14 @@
   
     <item>
       <title><![CDATA[화곡 셔츠룸 선택 전에 확인할 체크리스트와 실패 사례]]></title>
-      <link>https://sf-t3-1779642675702-080.vercel.app/posts/checklist-001-vo3n1j.html</link>
+      <link>https://sf-t3-1779642675702-080.maphoshirts.com/posts/checklist-001-vo3n1j.html</link>
       <guid isPermaLink="true">https://sf-t3-1779642675702-080.vercel.app/posts/checklist-001-vo3n1j.html</guid>
       <description><![CDATA[제목: 창작한 제목 | Apache Superset 2.0 RC3 삭제 이유와 취약점 분석 아, 진짜... Apache Superset 2.0 릴리스 전 PyPI에서 RC3 빌드가 삭제된 배경과 그 실제 이유를 파헤쳐보자. ## 소제목### 문제 발생 배경### RC3]]></description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[화곡 셔츠룸에 관한 흔한 오해, 직접 확인해보니 달랐던 점]]></title>
-      <link>https://sf-t3-1779642675702-080.vercel.app/posts/myth-002-vo3n1j.html</link>
+      <link>https://sf-t3-1779642675702-080.maphoshirts.com/posts/myth-002-vo3n1j.html</link>
       <guid isPermaLink="true">https://sf-t3-1779642675702-080.vercel.app/posts/myth-002-vo3n1j.html</guid>
       <description><![CDATA[아, 진짜... 2021년 겨울, 서버실 온도가 42도까지 올라갔을 때 Llama 3.1 8B 모델의 RoPE theta를 50만에서 5000만으로 변경했다. ### 소제목- 버그 발견 및 PR 논쟁 #### 문제-autopsy: 실패 결과에서 원인 거꾸로 추적LLam]]></description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
